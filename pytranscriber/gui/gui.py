@@ -113,7 +113,7 @@ class Ui_window(object):
         self.bRemoveFile.setText(_translate("window", "移除文件"))
         self.bCancel.setText(_translate("window", "取消"))
         self.chbxOpenOutputFilesAuto.setText(_translate("window", "完成后自动打开文件夹"))
-        self.labelSelectLang.setText(_translate("window", "音频语音:"))
+        self.labelSelectLang.setText(_translate("window", "选择音频语言:"))
         self.menuAbout.setTitle(_translate("window", "Abo&ut"))
         self.actionLicense.setText(_translate("window", "&License"))
         self.actionDonation.setText(_translate("window", "&DONATIONS"))
